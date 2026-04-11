@@ -457,6 +457,9 @@ function renderLayout(req, title, content) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5NMKWW600Y"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5NMKWW600Y');</script>
   <title>${siteTitle}</title>
   <meta name="description" content="${desc}">
   <meta name="author" content="Camilla Blauenfeldt">
