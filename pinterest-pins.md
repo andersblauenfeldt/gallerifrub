@@ -1,7 +1,27 @@
 # Pinterest Pins — GalleriFruB
 
-For hvert pin: upload billede, copy-paste titel og beskrivelse.
-Keywords i titel og beskrivelse er det vigtigste. Max 2-3 hashtags sidst i beskrivelsen hvis du vil.
+## Kom godt i gang
+
+**Konto:** pinterest.com/gallerifrub (log ind med Camillas konto)
+
+**3 boards er oprettet:**
+- `Paintings by FruB` — alle malerier
+- `Mixed Media by FruB` — alle mixed media-værker
+- `Studio Life — FruB` — procesbilleder fra atelieret (hent billeder fra gallerifrub.dk/om)
+
+**Sådan opretter du en pin:**
+1. Klik **+ Opret pin** øverst
+2. Upload billedet (download fra gallerifrub.dk eller direkte fra din computer)
+3. Copy-paste **Titel** og **Beskrivelse** fra denne fil
+4. Indsæt **Link** i link-feltet
+5. Vælg det rigtige board
+6. Klik **Udgiv**
+
+**Vigtigste regel:** Keywords i titel og beskrivelse er det der giver synlighed — ikke hashtags. Brug dem som de står.
+
+**Tempo:** 1-2 pins om dagen er bedre end mange på én gang — Pinterest-algoritmen belønner regelmæssighed.
+
+---
 
 ---
 
