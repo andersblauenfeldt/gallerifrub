@@ -1,6 +1,6 @@
 # Pinterest Pins — GalleriFruB
 
-For hvert pin: upload billede, copy-paste titel, beskrivelse og tags (uden #).
+For hvert pin: upload billede, copy-paste titel og beskrivelse (inkl. hashtags). Tags-feltet i Pinterest er ikke synligt for andre — brug beskrivelsen.
 
 ---
 
@@ -16,8 +16,7 @@ Let Us Fly — Abstract Painting by FruB
 **Beskrivelse:**
 A joyful burst of movement and colour. "Let Us Fly" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 120×100 cm, 2026. Available.
 
-**Tags (uden #):**
-AbstractArt, AbstractPainting, DanishArt, ContemporaryArt, AcrylicPainting, OriginalArt, ArtForSale, ColorfulArt, FruB, CamillaBlauenfeldt, NordicArt, WallArt, LargeFormatArt
+#AbstractArt #AbstractPainting #DanishArt #ContemporaryArt #AcrylicPainting #OriginalArt #ArtForSale #ColorfulArt #FruB #CamillaBlauenfeldt #NordicArt #WallArt #LargeFormatArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/lad-os-flyve
@@ -32,8 +31,7 @@ Soft Landing — Abstract Painting by FruB
 **Beskrivelse:**
 A quiet moment of arrival. "Fuglen er landet" (Soft Landing) is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 120×100 cm, 2026. Available.
 
-**Tags (uden #):**
-AbstractArt, AbstractPainting, DanishArt, ContemporaryArt, AcrylicPainting, OriginalArt, ArtForSale, NordicArt, FruB, CamillaBlauenfeldt, WallArt, StudioArt
+#AbstractArt #AbstractPainting #DanishArt #ContemporaryArt #AcrylicPainting #OriginalArt #ArtForSale #NordicArt #FruB #CamillaBlauenfeldt #WallArt #StudioArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/fuglen-er-landet
@@ -48,8 +46,7 @@ The Girls from Søllerød — Abstract Painting by FruB
 **Beskrivelse:**
 Playful and full of personality. "Pigerne fra Søllerød" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 50×60 cm, 2026. Available.
 
-**Tags (uden #):**
-AbstractArt, DanishArt, ContemporaryPainting, AcrylicOnCanvas, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, SmallFormat, ColorfulArt
+#AbstractArt #DanishArt #ContemporaryPainting #AcrylicOnCanvas #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #SmallFormat #ColorfulArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/pigerne-fra-soelleroed
@@ -64,8 +61,7 @@ To Believe — Abstract Painting by FruB
 **Beskrivelse:**
 An abstract meditation on faith and feeling. "To Believe" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 100×100 cm, 2025. Available.
 
-**Tags (uden #):**
-AbstractArt, ContemporaryArt, DanishArt, AcrylicPainting, SquareFormat, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, WallArt
+#AbstractArt #ContemporaryArt #DanishArt #AcrylicPainting #SquareFormat #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #WallArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/to-believe
@@ -80,8 +76,7 @@ The Path — Abstract Landscape by FruB
 **Beskrivelse:**
 A walk through something familiar, seen anew. "Stien" (The Path) is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 70×50 cm, 2025. Available.
 
-**Tags (uden #):**
-AbstractLandscape, DanishArt, ContemporaryPainting, AcrylicOnCanvas, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, AbstractNature
+#AbstractLandscape #DanishArt #ContemporaryPainting #AcrylicOnCanvas #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #AbstractNature
 
 **Link:**
 https://gallerifrub.dk/vaerk/stien
@@ -96,8 +91,7 @@ Pastime — Large Abstract Painting by FruB
 **Beskrivelse:**
 A large, immersive abstract work full of rhythm and colour. "Tidsfordriv" (Pastime) is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 115×140 cm, 2025. Available.
 
-**Tags (uden #):**
-AbstractArt, LargeFormatArt, DanishArt, ContemporaryArt, AcrylicPainting, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, StatementArt, WallArt
+#AbstractArt #LargeFormatArt #DanishArt #ContemporaryArt #AcrylicPainting #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #StatementArt #WallArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/tidsfordriv
@@ -112,8 +106,7 @@ Home — Abstract Painting by FruB
 **Beskrivelse:**
 Warmth, softness and belonging. "Home" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 98×98 cm, 2025. Available.
 
-**Tags (uden #):**
-AbstractArt, DanishArt, ContemporaryPainting, AcrylicOnCanvas, SquareFormat, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, HomeDecor, WallArt
+#AbstractArt #DanishArt #ContemporaryPainting #AcrylicOnCanvas #SquareFormat #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #HomeDecor #WallArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/home
@@ -128,8 +121,7 @@ Leisure — Abstract Painting by FruB
 **Beskrivelse:**
 A celebration of slow, easy time. "Leisure" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 98×98 cm, 2025. Available.
 
-**Tags (uden #):**
-AbstractArt, DanishArt, ContemporaryArt, AcrylicPainting, SquareFormat, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, WallArt
+#AbstractArt #DanishArt #ContemporaryArt #AcrylicPainting #SquareFormat #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #WallArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/leisure
@@ -144,8 +136,7 @@ Pleasure — Abstract Painting by FruB
 **Beskrivelse:**
 Pure joy in paint. "Pleasure" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 98×98 cm, 2025. Available.
 
-**Tags (uden #):**
-AbstractArt, DanishArt, ContemporaryPainting, AcrylicOnCanvas, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, ColorfulArt, WallArt
+#AbstractArt #DanishArt #ContemporaryPainting #AcrylicOnCanvas #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #ColorfulArt #WallArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/pleasure
@@ -160,8 +151,7 @@ Stories — Abstract Painting by FruB
 **Beskrivelse:**
 Every painting tells one. "Fortællinger" (Stories) is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 70×50 cm, 2025. Available.
 
-**Tags (uden #):**
-AbstractArt, DanishArt, ContemporaryArt, AcrylicPainting, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, SmallFormat
+#AbstractArt #DanishArt #ContemporaryArt #AcrylicPainting #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #SmallFormat
 
 **Link:**
 https://gallerifrub.dk/vaerk/fortaellinger
@@ -176,8 +166,7 @@ Lollipop — Abstract Painting by FruB
 **Beskrivelse:**
 Bold, sweet and full of energy. "Lollipop" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 70×50 cm, 2025. Available.
 
-**Tags (uden #):**
-AbstractArt, DanishArt, ContemporaryPainting, ColorfulArt, AcrylicOnCanvas, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, PopArt
+#AbstractArt #DanishArt #ContemporaryPainting #ColorfulArt #AcrylicOnCanvas #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #PopArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/lollipop
@@ -192,8 +181,7 @@ The Forest Blooms — Abstract Painting by FruB
 **Beskrivelse:**
 Nature bursting with colour and life. "Skoven blomstrer" (The Forest Blooms) is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 120×100 cm, 2025. Available.
 
-**Tags (uden #):**
-AbstractNature, AbstractArt, DanishArt, ContemporaryPainting, AcrylicOnCanvas, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, WallArt, LargeFormatArt
+#AbstractNature #AbstractArt #DanishArt #ContemporaryPainting #AcrylicOnCanvas #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #WallArt #LargeFormatArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/skoven-blomstrer
@@ -208,8 +196,7 @@ Colours of the Past — Abstract Painting by FruB
 **Beskrivelse:**
 Memory rendered in colour. "Fortidens farver" (Colours of the Past) is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 100×100 cm, 2024. Available.
 
-**Tags (uden #):**
-AbstractArt, DanishArt, ContemporaryArt, AcrylicPainting, SquareFormat, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, WallArt
+#AbstractArt #DanishArt #ContemporaryArt #AcrylicPainting #SquareFormat #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #WallArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/fortidens-farver
@@ -224,8 +211,7 @@ In the Mood — Abstract Painting by FruB
 **Beskrivelse:**
 A mood you can almost hear. "In the Mood" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 98×98 cm, 2024. Available.
 
-**Tags (uden #):**
-AbstractArt, DanishArt, ContemporaryPainting, AcrylicOnCanvas, SquareFormat, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, WallArt
+#AbstractArt #DanishArt #ContemporaryPainting #AcrylicOnCanvas #SquareFormat #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #WallArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/in-the-mood
@@ -240,8 +226,7 @@ Still Life — Abstract Painting by FruB
 **Beskrivelse:**
 Stillness with depth. "Stilleben" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 100×80 cm, 2024. Available.
 
-**Tags (uden #):**
-AbstractArt, StillLife, DanishArt, ContemporaryPainting, AcrylicOnCanvas, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, WallArt
+#AbstractArt #StillLife #DanishArt #ContemporaryPainting #AcrylicOnCanvas #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #WallArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/stilleben
@@ -256,8 +241,7 @@ My Magritte — Abstract Painting by FruB
 **Beskrivelse:**
 A playful nod to the surreal. "My Magritte" is an acrylic painting on canvas by Danish artist Camilla Blauenfeldt (FruB), 100×100 cm, 2023. Available.
 
-**Tags (uden #):**
-AbstractArt, SurrealistArt, DanishArt, ContemporaryPainting, AcrylicOnCanvas, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, Magritte, WallArt
+#AbstractArt #SurrealistArt #DanishArt #ContemporaryPainting #AcrylicOnCanvas #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #Magritte #WallArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/my-magritte
@@ -276,8 +260,7 @@ Der Wald — Mixed Media Art by FruB
 **Beskrivelse:**
 Forest, texture and memory collide. "Der Wald" is a mixed media work by Danish artist Camilla Blauenfeldt (FruB), 30×40 cm, 2025. Available.
 
-**Tags (uden #):**
-MixedMedia, MixedMediaArt, DanishArt, ContemporaryArt, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, TextureArt, CollageArt
+#MixedMedia #MixedMediaArt #DanishArt #ContemporaryArt #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #TextureArt #CollageArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/der-wald
@@ -292,8 +275,7 @@ Autumn — Mixed Media Art by FruB
 **Beskrivelse:**
 The warmth of falling leaves, captured in texture and colour. "Autumn" is a mixed media work by Danish artist Camilla Blauenfeldt (FruB), 24×18 cm, 2025. Available.
 
-**Tags (uden #):**
-MixedMedia, MixedMediaArt, DanishArt, ContemporaryArt, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, AutumnArt, SmallFormat
+#MixedMedia #MixedMediaArt #DanishArt #ContemporaryArt #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #AutumnArt #SmallFormat
 
 **Link:**
 https://gallerifrub.dk/vaerk/autumn
@@ -308,8 +290,7 @@ September Feeling 01 — Mixed Media Art by FruB
 **Beskrivelse:**
 That particular feeling only September has. Mixed media on paper by Danish artist Camilla Blauenfeldt (FruB), 30×21 cm, 2025. Available.
 
-**Tags (uden #):**
-MixedMedia, MixedMediaArt, DanishArt, ContemporaryArt, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, PaperArt, CollageArt
+#MixedMedia #MixedMediaArt #DanishArt #ContemporaryArt #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #PaperArt #CollageArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/september-feeling-01
@@ -324,8 +305,7 @@ September Feeling 02 — Mixed Media Art by FruB
 **Beskrivelse:**
 A companion piece — same season, different light. Mixed media by Danish artist Camilla Blauenfeldt (FruB), 30×21 cm, 2025. Available.
 
-**Tags (uden #):**
-MixedMedia, MixedMediaArt, DanishArt, ContemporaryArt, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, PaperArt
+#MixedMedia #MixedMediaArt #DanishArt #ContemporaryArt #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #PaperArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/september-feeling-02
@@ -340,8 +320,7 @@ Favourite Colour — Mixed Media Art by FruB
 **Beskrivelse:**
 What is yours? "Favourite Colour" is a mixed media work by Danish artist Camilla Blauenfeldt (FruB), 18×13 cm, 2025. Available.
 
-**Tags (uden #):**
-MixedMedia, MixedMediaArt, DanishArt, ContemporaryArt, OriginalArt, ArtForSale, FruB, CamillaBlauenfeldt, NordicArt, ColorfulArt, SmallFormat, MiniArt
+#MixedMedia #MixedMediaArt #DanishArt #ContemporaryArt #OriginalArt #ArtForSale #FruB #CamillaBlauenfeldt #NordicArt #ColorfulArt #SmallFormat #MiniArt
 
 **Link:**
 https://gallerifrub.dk/vaerk/favourite-colour
@@ -358,8 +337,7 @@ Studio Life — FruB, Danish Abstract Artist
 **Beskrivelse:**
 A glimpse into the studio of Danish artist Camilla Blauenfeldt (FruB). Abstract paintings in progress — acrylic on canvas. Follow the journey at gallerifrub.dk
 
-**Tags (uden #):**
-ArtStudio, StudioLife, DanishArtist, AbstractArtist, ArtProcess, BehindTheScenes, FruB, CamillaBlauenfeldt, NordicArt, ContemporaryArt, ArtistAtWork, PaintingProcess
+#ArtStudio #StudioLife #DanishArtist #AbstractArtist #ArtProcess #BehindTheScenes #FruB #CamillaBlauenfeldt #NordicArt #ContemporaryArt #ArtistAtWork #PaintingProcess
 
 **Link:**
 https://gallerifrub.dk/om
