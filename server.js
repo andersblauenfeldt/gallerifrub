@@ -97,20 +97,11 @@ function mixedData() {
 
 // Process photos on /om
 // Alle billeder fra både værksted og udstillinger
-const allPhotos = [
-  'process/process-01.jpeg','process/process-02.jpg','process/process-03.jpeg',
-  'process/process-04.jpg','process/process-05.jpg','process/process-06.jpg',
-  'process/process-07.jpg','process/process-08.jpg','process/process-09.jpg',
-  'process/process-10.jpg','process/process-11.jpg','process/process-12.jpeg',
-  'contact/contact-01.jpg','contact/contact-02.jpeg','contact/contact-03.jpeg',
-  'contact/contact-04.jpeg','contact/contact-05.jpeg','contact/contact-06.jpg',
-  'contact/contact-07.jpg','contact/contact-08.jpg','contact/contact-09.jpg',
-  'contact/contact-10.jpg','contact/contact-11.jpg','contact/contact-12.jpg',
-];
-// /om: original rækkefølge
-const processPhotos = allPhotos;
-// /kontakt: blandet rækkefølge (deterministisk shuffle)
-const contactPhotosAll = [allPhotos[2],allPhotos[14],allPhotos[5],allPhotos[18],allPhotos[0],allPhotos[10],allPhotos[16],allPhotos[7],allPhotos[12],allPhotos[3],allPhotos[20],allPhotos[8],allPhotos[15],allPhotos[1],allPhotos[22],allPhotos[6],allPhotos[11],allPhotos[17],allPhotos[4],allPhotos[13],allPhotos[21],allPhotos[9],allPhotos[19],allPhotos[23]];
+// /om - shuffled rækkefølge (55 billeder)
+const processPhotos = ['process/extra-25.jpg','process/extra-16.jpg','process/extra-03.jpg','process/extra-02.jpg','process/extra-50.jpg','process/extra-30.jpg','process/extra-51.jpg','process/extra-18.jpg','process/extra-23.jpg','process/extra-59.jpg','process/extra-55.jpg','process/extra-37.jpg','process/extra-39.jpg','process/extra-52.jpg','process/extra-53.jpg','process/extra-61.jpg','process/extra-26.jpg','process/extra-06.jpg','process/extra-40.jpg','process/extra-62.jpg','process/extra-60.jpg','process/extra-41.jpg','process/extra-36.jpg','process/extra-09.jpg','process/extra-13.jpg','process/extra-49.jpg','process/extra-07.jpg','process/extra-19.jpg','process/extra-57.jpg','process/extra-58.jpg','process/extra-33.jpg','process/extra-38.jpg','process/extra-21.jpg','process/extra-28.jpg','process/extra-56.jpg','process/extra-54.jpg','process/extra-27.jpg','process/extra-48.jpg','process/extra-11.jpg','process/extra-29.jpg','process/extra-17.jpg','process/extra-01.jpg','process/extra-05.jpg','process/extra-15.jpg','process/extra-46.jpg','process/extra-20.jpg','process/extra-42.jpg','process/extra-24.jpg','process/extra-44.jpg','process/extra-04.jpg','process/extra-22.jpg','process/extra-32.jpg','process/extra-14.jpg','process/extra-08.jpg','process/extra-47.jpg'];
+// /kontakt - fast shuffled rækkefølge
+const contactPhotosAll = ['contact/extra-02.jpg','contact/extra-03.jpg','contact/extra-20.jpg','contact/extra-05.jpg','contact/extra-30.jpg','contact/extra-08.jpg','contact/extra-18.jpg','contact/extra-11.jpg','contact/extra-23.jpg','contact/extra-52.jpg','contact/extra-14.jpg','contact/extra-25.jpg','contact/extra-19.jpg','contact/extra-21.jpg','contact/extra-22.jpg','contact/extra-09.jpg','contact/extra-28.jpg','contact/extra-41.jpg','contact/extra-40.jpg','contact/extra-24.jpg','contact/extra-29.jpg','contact/extra-26.jpg','contact/extra-32.jpg','contact/extra-33.jpg','contact/extra-60.jpg','contact/extra-48.jpg','contact/extra-56.jpg','contact/extra-37.jpg','contact/extra-53.jpg','contact/extra-59.jpg','contact/extra-50.jpg','contact/extra-49.jpg','contact/extra-47.jpg','contact/extra-46.jpg','contact/extra-44.jpg','contact/extra-42.jpg','contact/extra-15.jpg','contact/extra-13.jpg','contact/extra-58.jpg','contact/extra-54.jpg','contact/extra-39.jpg','contact/extra-55.jpg','contact/extra-16.jpg','contact/extra-62.jpg','contact/extra-57.jpg','contact/extra-17.jpg','contact/extra-51.jpg','contact/extra-27.jpg','contact/extra-04.jpg','contact/extra-61.jpg','contact/extra-07.jpg','contact/extra-38.jpg','contact/extra-06.jpg','contact/extra-36.jpg','contact/extra-01.jpg'];
+
 
 // Hjælpefunktioner
 function makeSlug(title) {
@@ -352,7 +343,7 @@ const css = `
     .painting-info h2 { font-size:0.9rem; }
     .about-top { grid-template-columns:1fr; gap:2rem; }
     .about-wrap { padding:2.5rem 1.2rem; }
-    .process-grid { columns:2; }
+    .process-grid { grid-template-columns:repeat(2,1fr); }
     footer { flex-direction:column; gap:0.5rem; text-align:center; padding:2rem 1.2rem; }
     .modal-inner { flex-direction:column; max-width:95vw; }
     .modal-inner img { max-width:90vw; max-height:55vh; }
