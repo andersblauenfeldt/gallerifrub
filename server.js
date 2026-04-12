@@ -448,9 +448,9 @@ function renderLayout(req, title, content) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5NMKWW600Y"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5NMKWW600Y');</script>
+  <meta name="p:domain_verify" content="1cf73b82fc09e880882668197aee4688"/>
+  <!-- Umami Analytics (cookie-fri) -->
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="85a87f4b-ab67-4760-894d-ef1218061f7c"></script>
   <title>${siteTitle}</title>
   <meta name="description" content="${desc}">
   <meta name="author" content="Camilla Blauenfeldt">
