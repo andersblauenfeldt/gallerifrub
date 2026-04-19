@@ -243,7 +243,7 @@ Alle UI-strenge er i `i18n.js`. Eksempler:
 - **Open Graph:** Implementeret på alle sider. Værkside: OG-billede = værkbillede
 - **Pinterest:** 3 boards oprettet. Pin-tekster i `pinterest-pins.md`. Tags UDEN `#`.
 - **Instagram:** @cblauenfeldt — feed embeddet på forside og nyhedsside
-- **GA4:** G-5NMKWW600Y — **endnu ikke aktivt i koden** (se tech-dok)
+- **Umami:** Website ID 85a87f4b-ab67-4760-894d-ef1218061f7c — aktivt
 
 ---
 

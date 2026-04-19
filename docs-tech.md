@@ -203,11 +203,10 @@ SSL: `/etc/letsencrypt/live/gallerifrub.dk/` — auto-fornyes med Certbot.
 
 ## Analytics
 
-- **GA4:** Property 521503542, Tag ID: G-5NMKWW600Y
-- **Status:** Tag er IKKE pt. implementeret i server.js (mangler gtag-snippet i `<head>`)
-- **Service account:** /root/.openclaw/ga-service-account.json
-- **TODO:** Indsæt GA4-snippet i den globale `<head>`-funktion i server.js
-
+- **Udbyder:** Umami (cloud.umami.is)
+- **Website ID:** 85a87f4b-ab67-4760-894d-ef1218061f7c
+- **Script:** indsat i global head i server.js
+- **Status:** Aktivt
 ---
 
 ## Tredjeparts-integrationer
@@ -259,6 +258,5 @@ pm2 logs frub --lines 50
 ## Kendte begrænsninger / TODO
 
 - `server.js` er monolitisk (~1600 linjer). Refaktorering til `routes/`-moduler er planlagt.
-- GA4-snippet mangler i HTML-output.
 - Ingen automatisk backup af `data/` eller `public/images/`.
 - Admin-password er hardkodet — ikke kritisk da sitet ikke håndterer betalinger.
